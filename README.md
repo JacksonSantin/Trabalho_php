@@ -6,8 +6,6 @@
 
 <p align="center">
   <img alt="github language count" src="https://img.shields.io/github/languages/count/JacksonSantin/Trabalho_php?color=%238257E5">
-
-  <img alt="github top language" src="https://img.shields.io/github/languages/top/JacksonSantin/Trabalho_php?color=%238257E5">
   
   <a href="https://github.com/JacksonSantin/shopping/commits/master">
     <img alt="github last commit" src="https://img.shields.io/github/last-commit/JacksonSantin/Trabalho_php?color=%238257E5">
