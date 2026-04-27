@@ -1,0 +1,24 @@
+::-webkit-scrollbar-thumb {
+    background: #335773;
+}
+::-webkit-scrollbar-track {
+    background: #d4d2d2;
+}
+::-webkit-scrollbar {
+    width: 5px !important;
+    height: 10px !important;
+}
+span.brand-text {
+    font-size: 16px;
+}
+.nav-item .empresa,
+.nav-item .usuarios,
+.nav-item .usuarios-rel,
+.nav-item .cliente-rel,
+.nav-item .empresa-rel{
+    border-bottom: 1px solid #4f5962;
+    border-radius: 0%;
+}
+.user-panel .usuario-logado span{
+    color: #ffffff;
+}
